@@ -1,3 +1,7 @@
 [submodule "readelf"]
 	path = readelf
 	url = https://github.com/tttturtle-russ/easyreadelf
+[submodule "easyreadelf"]
+	path = easyreadelf
+	url = https://github.com/tttturtle-russ/easyreadelf.git
+	branch = main
