@@ -1,4 +1,0 @@
-[submodule "easyreadelf"]
-	path = experiment/easyreadelf
-	url = https://github.com/tttturtle-russ/easyreadelf.git
-	branch = main
