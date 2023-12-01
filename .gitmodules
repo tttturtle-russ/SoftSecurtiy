@@ -1,0 +1,3 @@
+[submodule "readelf"]
+	path = readelf
+	url = https://github.com/tttturtle-russ/easyreadelf
